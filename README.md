@@ -2,7 +2,7 @@
  * @Date: 2023-05-31 16:21:34
  * @File: 
 -->
-![logo](https://opensource.sensorsdata.cn/wp-content/uploads/logo.png)
+<img src="https://ow-file.sensorsdata.cn/www/home/header/sensors_header_icon.svg" width="200" >
 
 ## 神策简介
 
@@ -15,7 +15,7 @@
 
 ## License
 
-Copyright 2015－2023 Sensors Data Inc.
+Copyright 2015－2024 Sensors Data Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
